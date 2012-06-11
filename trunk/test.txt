@@ -1,4 +1,5 @@
-Micro QR	OAD
-a noob
-QR Model 2	haha noob
-R Model 2	blablabla
+QR Model 2	blablabla
+QR Model 2	http://bbc.co.uk/programmes
+Micro QR	ADRA000504
+QR Model 2	http://www.qrstuff.com/
+QR Model 2	Bardzo fajny QR code
